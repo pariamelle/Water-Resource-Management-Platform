@@ -27,9 +27,8 @@ networks:
   redis_net:
     external:  false
 
-version: '3.8'
 
-services:
+
   mongo:
     image: mongo:latest
     container_name: mongodb_container
