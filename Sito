@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Resource Menagement</title>
+    <link rel="stylesheet" href="Style_main.css">
+</head>
+<body>
+      <nav>
+        <a href="#">Map</a>
+        <a href="#">Servizi</a>
+        <a href="#">Contatti</a>
+    </nav>
+    <header>
+        <h1>A fast way to monitor water resources</h1>
+    </header>
+    <main>
+        <div class="search-container">
+            <input type="text" placeholder="Cerca..." class="search-bar">
+        </div>
+        <h2>Introduzione</h2>
+        <p>Questa è la mia prima pagina web. Sto imparando a creare siti web utilizzando HTML e CSS.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Il mio primo sito</p>
+    </footer>
+</body>
+</html>
