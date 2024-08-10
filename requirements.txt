@@ -1,0 +1,7 @@
+fastapi<1.0.0
+uvicorn<1.0.0
+mimesis
+gcsfs
+graphviz
+dask[complete]
+jupyterlab<5
